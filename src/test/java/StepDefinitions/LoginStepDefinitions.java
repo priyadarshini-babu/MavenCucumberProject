@@ -41,7 +41,6 @@ public class LoginStepDefinitions {
 		 driver.findElement(By.xpath("/html/body/div[1]/header/div/nav/div[2]/div/div[2]/ul/a")).click();
 		
 		//driver.findElement(By.linkText("Log In")).click();
-//delete line
 		System.out.println("git sample");
 		
 	}
